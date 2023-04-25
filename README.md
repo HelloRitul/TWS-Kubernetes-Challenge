@@ -8,5 +8,9 @@ You can check my blog to read about Kubernetes. 👇👇👇
 
 # Day-1  https://ritul.hashnode.dev/the-challenge-for-the-kubeweek
 
+# Completing the Tuesday task ✨
+
+# Day-2 https://ritul.hashnode.dev/kubernetes-networking
+
 # Hope this is helpful for all... 😊
  

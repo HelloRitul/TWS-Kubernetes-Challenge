@@ -6,7 +6,7 @@ I have accepted the challenge of kubeweek and completed the task of monday where
 
 You can check my blog to read about Kubernetes. 👇👇👇
 
-https://ritul.hashnode.dev/the-challenge-for-the-kubeweek
+# Day-1  https://ritul.hashnode.dev/the-challenge-for-the-kubeweek
 
 # Hope this is helpful for all... 😊
  

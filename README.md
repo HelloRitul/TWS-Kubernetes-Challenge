@@ -12,5 +12,9 @@ You can check my blog to read about Kubernetes. 👇👇👇
 
 # Day-2 https://ritul.hashnode.dev/kubernetes-networking
 
+# Completing the Wednesday task ✨
+
+# Day-3 https://ritul.hashnode.dev/kubernetes-workloads-deployments-jobs-cronjobs-etc
+
 # Hope this is helpful for all... 😊
  

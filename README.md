@@ -1,10 +1,11 @@
-# Completing the Monday task ✨
 
 By participating in the KubeWeek challenge, I demonstrating a commitment to learning and improving my skills as a devOps Engineer. 🚀🚀
 
-I have accepted the challenge of kubeweek and completed the task of monday where I have told about Kubernetes and installation. 
+I have accepted the challenge of kubeweek and completed all the task.
 
 You can check my blog to read about Kubernetes. 👇👇👇
+
+# Completing the Monday task ✨
 
 # Day-1  https://ritul.hashnode.dev/the-challenge-for-the-kubeweek
 
@@ -23,6 +24,14 @@ You can check my blog to read about Kubernetes. 👇👇👇
 # Completing the Friday task ✨
  
 # Day-5 https://ritul.hashnode.dev/kubernetes-storage-kubernetes-security
+
+# Completing the Saturday task ✨
+
+# Day-6 https://ritul.hashnode.dev/kubernetes-cluster-maintenance
+
+# Completing the Sunday task ✨
+
+# Day-7 https://ritul.hashnode.dev/kubernetes-troubleshooting
 
 # Hope this is helpful for all... 😊
  

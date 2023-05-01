@@ -37,5 +37,9 @@ You can check my blog to read about Kubernetes. 👇👇👇
 
 # Day-7 https://ritul.hashnode.dev/kubernetes-troubleshooting
 
+# Completing End to End Project ✨
+
+# Project-link https://ritul.hashnode.dev/deploying-a-flask-api-and-mongodb-on-kubernetes
+
 # Hope this is helpful for all... 😊
  
